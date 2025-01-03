@@ -20,4 +20,4 @@ I created a dice app.Which we can make the die roll at the press of a button.Sho
 
 
 
-
+![Screenshot.png](Demo/Screenshot.png)
