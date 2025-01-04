@@ -16,5 +16,6 @@ I created a dice app. Which we can make the die roll at the press of a button, s
 - Learn about basic Dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
-<img src="Demo/Screenshot.png" alt="Screenshot" width="300"/>
+## Demo
 
+<img src="Demo/Screen%20Recording.gif" alt="Screen Recording" width="300"/>
