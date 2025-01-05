@@ -2,9 +2,9 @@
 
 ## What is this App All About
 
-I created a dice app. Which we can make the die roll at the press of a button, showing different values of dice.
+A dice app. Which we can make the die roll at the press of a button, showing different values of dice.
 
-## What I will learn
+## What I have Learned
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
